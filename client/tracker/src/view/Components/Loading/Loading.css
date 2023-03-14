@@ -1,0 +1,9 @@
+.loading{
+    color:white;
+    align-items: center;
+}
+
+.loading-symbol{
+    max-width: 200%;
+    min-width: 200%;
+}

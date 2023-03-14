@@ -1,0 +1,6 @@
+.pbar-label{
+    position: absolute;
+    left: 50%;
+    top: 1;
+    font-size: 11px;
+}

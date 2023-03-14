@@ -1,0 +1,20 @@
+.timeframe-select-card{
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 1%;
+}
+
+.yum{
+    color: rgb(208, 208, 208)
+}
+.yummyyum{
+    color: #dff6c6;
+}
+
+.trends-card-text{
+    border-bottom: 1px solid gray;
+    margin-left: 20%;
+    margin-right: 20%;
+}

@@ -1,0 +1,77 @@
+.inner-chart-label{
+    position: absolute;
+    top: 25%;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    padding-top: 40%;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.home-page-targets{
+    margin-top: 5%;
+}
+
+.home-page-text{
+    margin-right: 20%;
+    color: #d1c9af;
+    text-align: center;
+    border-bottom: 1px solid #d1c9af;
+    margin-left: 20%;
+    margin-bottom: -2%;
+}
+
+.inner-chart-val{
+    color: white !important;
+
+}
+
+.sp{
+    margin-top: -10px;
+}
+.circle-icon{
+    border: 0px solid black;
+    border-radius: 100%;
+}
+.iron{
+    color: #B2E3AF;
+}
+.calcium{
+    color: #D6FAC3;
+}
+
+.zinc{
+    color: #D6FAC3;
+}
+
+.magnesium{
+    color: #B2E3AF;
+}
+.potassium{
+    color: #B2E3AF;
+}
+
+.iron-text { 
+    margin-top: 23px; 
+    color: gray;
+    font-size: small;
+}
+
+.home-page{
+    margin-top: 5%;
+}
+.minerals-card{
+   margin: 1%;
+}
+.macro-targets-card{
+    padding: 2%;
+    margin-right: 5%;
+}
+.meal-one{
+    margin-top: -3%;
+}
+.yo{
+    color: #d1f4cf;
+}

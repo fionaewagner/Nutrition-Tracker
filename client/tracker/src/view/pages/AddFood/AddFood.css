@@ -1,0 +1,65 @@
+
+.add-food-title{
+    margin-top: 3%;
+    margin-right: 40%;
+    color: #d1c9af;
+    text-align: center;
+    border-bottom: 1px solid #d1c9af;
+    margin-left: 40%;
+    margin-bottom: 1%;
+    
+}
+
+.add-food-search-bar{
+    align-items: center;
+    background-color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+    padding-bottom: 1.5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 10px;
+}
+.add-food-search-icon{
+    margin-bottom: -34px;  
+    margin-right: 55px;
+    padding: 7px;
+    z-index: 10;
+    position: relative;
+    color: rgb(120, 120, 120);
+}
+.add-food-search-input{
+    padding-left: 26px;
+    max-width: 200%;
+    min-width: 100%;
+    z-index: 0;
+    
+}
+
+.food-item{
+    background-color: rgb(245, 250, 255);
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 15px;
+    margin-bottom: 7px;
+    border-bottom: 1px solid black;
+    border-radius: 5px !important;
+    text-align: center;
+}
+
+.add-food-item-rows{
+    margin: 4%;  
+}
+
+.add-food-link{
+    text-decoration: none;
+    color: rgb(59, 57, 57) !important;
+    font-weight:450;
+}
+
+.add-food-item-rows :hover div {
+    background-color: rgb(227, 237, 246) ;
+    border-radius: 5px !important;
+    cursor: pointer;
+}

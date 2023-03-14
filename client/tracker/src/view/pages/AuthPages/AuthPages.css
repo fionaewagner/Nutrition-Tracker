@@ -1,0 +1,94 @@
+.auth-card{
+    background-color: rgb(251, 251, 255);
+    width: 400px;
+    margin-top: 5%;
+    border-radius: 20px;
+    border: 2px solid rgb(156, 156, 156);
+    padding: 40px;
+    text-align: center;
+    
+    
+}
+.register-card{
+    background-color: rgb(251, 251, 255);
+    border-radius: 20px;
+    border: 2px solid rgb(156, 156, 156);
+    padding-bottom: 30px;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 10px;
+    text-align: center;
+
+}
+.yo{
+    margin-top: -100px !important;
+
+}
+
+.feet-input{
+    max-width: 50% !important;
+}
+
+.add-underline{
+    border-bottom: 1px solid #d1c9af;
+}
+.auth-form{
+    display: flex;
+    justify-content: center;
+}
+.auth-title{
+    text-align: center;
+    color: white;
+    margin-top: 1%;
+}
+.auth-page{
+    background: linear-gradient(to right, #99c396,#e2f8d6) !important;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 15%;
+    padding-top: 2%;
+    
+}
+.auth-lg-txt{
+    font-size: 200px;
+}
+.register-lg-txt{
+    font-size: 150px;
+}
+
+.auth-links{
+    margin-left: 9% !important;
+}
+.auth-links-text{
+    text-decoration: none;
+    color: rgb(158, 158, 158);
+}
+.auth-links-text :hover{
+    cursor: pointer !important;
+    color: rgb(77, 77, 77) !important;
+}
+.sex-label{
+   
+    font-weight: 500;
+    margin-left: 5%;
+    
+}
+
+
+.add-m-l{
+    margin-left: 1% !important;
+}
+.ai{
+    line-height: 20px !important;
+}
+.errm{
+    margin-bottom: -5px !important;
+    
+}
+.subtitle{
+    margin-top: -22px;
+    font-weight: 500;
+}
+
+
+

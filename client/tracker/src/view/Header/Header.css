@@ -1,0 +1,22 @@
+.nav-link{
+   color: white !important;
+}
+.nav-brand{
+    color:white !important;
+}
+
+.navbar{
+    background: linear-gradient(to right, #99c396,#dcfbcb) !important;
+}
+
+.hidden{
+    display: none;
+}
+.not-hidden{
+    
+    
+}
+.sign-out-btn{
+    background-color: rgba(255, 255, 255, 0) !important;
+    border: 0px;
+}

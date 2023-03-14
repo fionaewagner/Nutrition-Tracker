@@ -1,0 +1,33 @@
+.diary{
+    background-color: rgb(255, 255, 255);
+    margin-top: 5%;
+    padding: 2%;
+    border-radius: 5px;
+    border: 1px solid rgb(201, 201, 201);
+}
+
+.meal-title{
+    color: #ada794;
+}
+
+.diary-sub-heading{
+    font-size: x-small;
+    margin-top: -1%;
+}
+.food-diary-row{
+    padding-top: 15px;
+    border-bottom: 1px solid black;
+}
+.food-diary-rows :hover div {
+    background-color: rgb(238, 236, 236) ;
+}
+.bb{
+    background-color: rgb(196, 196, 196);
+}
+.bb:hover{
+    background-color: rgb(238, 238, 238) !important;
+
+}
+.icon-plus{
+    color:rgb(255, 255, 255);
+}
